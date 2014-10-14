@@ -12,8 +12,6 @@ import displaygrid.apps.TextBannerClientApp;
 import displaygrid.apps.TextBannerServerApp;
 import displaygrid.apps.frcmatchfeed.FRCMatchResultsClientApp;
 import displaygrid.apps.frcmatchfeed.FRCMatchResultsServerApp;
-import displaygrid.apps.team1100feed.Team1100TweetsClientApp;
-import displaygrid.apps.team1100feed.Team1100TweetsServerApp;
 
 /**
  *
